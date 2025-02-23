@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot,React,Node js**
 
-- 👯 I’m looking to collaborate on **Deep Learning based Diabetic Foot Ulcer Monitoring and Healing Tracker**
+- 👯 I’m  collaborate on **Deep Learning based Diabetic Foot Ulcer Monitoring and Healing Tracker**
 
 - 💬 Ask me about **Java**
 
